@@ -1,4 +1,3 @@
-### Hi there 👋
 
 Assalamu-Alaikum.I am Rifat. 3 times Champion on BUBT Intra University Programming Contest. I participated in several programming contests including ICPC. My core skills are on C++, Algorithms and Data Structure. On the contrary, my minor skills cover Desktop Application(.Net Framework) with C# and MySQL , Swing and Java Networking, Computer Vision & Deep Learning , Web Application with HTML|CSS, Bootstrap, PHP.
 
