@@ -1,5 +1,5 @@
 
-Assalamu-Alaikum. I am Rifat. 3 times Champion on BUBT Intra University Programming Contest. I participated in several programming contests including ICPC, Solved more than 1900 problems in various online judges, 200+ online contest participation. My core skills are on C#, Asp.Net Core, Angular, C++, Algorithms and Data Structure. On the contrary, my minor skills cover Desktop Application(.Net Framework) with C# and MySQL, Web Application with HTML|CSS, Bootstrap, PHP.
+An enthusiastic software engineer with expertise in .Net, C#, Python, MongoDB, RabbitMQ, Redis, Azure Data Factory, Azure Functions, and Azure Databricks and familiar with Angular, Typescript .Committed to ongoing professional development, actively following and adopting the latest industry trends and cutting-edge technologies to consistently achieve superior outcomes.
 
 <!--
 **rifatentr/rifatentr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
